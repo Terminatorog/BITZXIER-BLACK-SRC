@@ -1,0 +1,20 @@
+
+{
+    "TOKEN": "",
+    "MONGO_DB": "",
+    "WEBHOOK_URL" : "https://discord.com/api/webhooks/1376331955666157719/_gpaIIhDhgWT0avl_NZgs9zYnw3Y1GM4XwmsDSNA6-vDs3kcxrJ6c8OJvpxwbTTb-PeC",
+    "Beast" : "",
+    "cooldown": true,
+    "PREFIX": "$$",
+    "owner": ["870040788539678791"],
+    "mainmode": ["870040788539678791" , "1118020446353371147"],
+    "premium" : ["870040788539678791" , "1118020446353371147"],
+    "admin": ["870040788539678791"],
+    "np": ["870040788539678791" , "1118020446353371147"],
+    "verifybanner" : "https://media.discordapp.net/attachments/1375960179006242977/1376508353852735519/EnhancedImage.png",
+    "invite": "",
+    "quarantineColor": "#b38844",
+    "excelsafetyrolecolor": "#F9C314",
+    "support" : "https://discord.gg/gn5gVetqtu",
+    "baseText": "```ml\n   ⧼ Excel Premium Features ⧽   ```"
+}
